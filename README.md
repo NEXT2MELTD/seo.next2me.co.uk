@@ -1,2 +1,1 @@
-<<<<<<< HEAD
 Your local changes
