@@ -1,1 +1,5 @@
-# seo.next2me.co.uk
+<<<<<<< HEAD
+Your local changes
+=======
+Remote changes
+>>>>>>> origin/main
